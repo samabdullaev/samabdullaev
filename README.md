@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋 I am Sam, a software developer.
 
-- Check out my [blog](https://samabdullaev.medium.com/) and my [resume](https://docs.google.com/document/d/13pro0hNruqkUImo8LRWuyLFeLSU7ngOIwVYJ0oG2NtE/edit?usp=sharing).
+- Check out my [blog](https://samabdullaev.medium.com/) and my [resume](https://gist.github.com/samabdullaev/32bde556ad6048ee6e37a7c9df8311c3).
 - I’m currently working on [E-commerce app](https://github.com/samabdullaev/ecommerce-app).
 - All of my projects are available at [my portfolio website](https://samabdullaev.vercel.app/).
 
