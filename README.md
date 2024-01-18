@@ -2,10 +2,10 @@
 **samabdullaev/samabdullaev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-### Hi there 👋 I am Sam, a software developer.
+### Hi there 👋 I am Sam, a software engineer.
 
 - Check out my [blog](https://samabdullaev.medium.com/) and my [resume](https://gist.github.com/samabdullaev/32bde556ad6048ee6e37a7c9df8311c3).
-- I’m currently working on [E-commerce app](https://github.com/samabdullaev/ecommerce-app).
+- I’m currently working on [my LeetCode Solution](https://github.com/samabdullaev/LeetCode).
 - All of my projects are available at [my portfolio website](https://samabdullaev.vercel.app/).
 
 <h3 align="left">Connect with me:</h3>
