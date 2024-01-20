@@ -1,7 +1,3 @@
-<!--
-**samabdullaev/samabdullaev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
 ### Hi there 👋 I am Sam, a software engineer.
 
 - Check out my [blog](https://samabdullaev.medium.com/) and my [resume](https://gist.github.com/samabdullaev/32bde556ad6048ee6e37a7c9df8311c3).
